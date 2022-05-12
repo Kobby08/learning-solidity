@@ -2,7 +2,7 @@
 
 pragma solidity >=0.7.0 <0.9.0; 
 
-contract MyContract {
+contract Structs {
 //1.declare struct
 //2.CRUD
 //3.array of structs
